@@ -1,1 +1,3 @@
 # Yu
+## LICENSE
+MIT
